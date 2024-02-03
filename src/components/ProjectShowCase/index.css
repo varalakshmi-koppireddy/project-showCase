@@ -1,0 +1,83 @@
+.bg-container {
+  background-color: #f1f5f9;
+  height: 100vh;
+  width: 100%;
+}
+
+.nav-container {
+  height: 100px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding-left: 100px;
+}
+
+.logo-image {
+  height: 50px;
+  width: 80px;
+}
+
+.select-input {
+  background: none;
+  border: 1px solid #cbd5e1;
+  outline: none;
+  height: 30px;
+  width: 300px;
+  border-radius: 8px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  margin-left: 100px;
+}
+
+.list-container {
+  height: 80vh;
+  width: 100%;
+  padding-left: 100px;
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+.failure-container {
+  height: 80vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.failure-img {
+  height: 300px;
+  width: 300px;
+}
+.failure-heading {
+  font-family: 'Roboto';
+  font-size: 23px;
+  color: #475569;
+}
+.failure-des {
+  font-family: 'Roboto';
+  font-size: 13px;
+  color: #475569;
+}
+.retry-button {
+  font-family: 'Roboto';
+  font-size: 13px;
+  color: #ffffff;
+  background-color: #328af2;
+  border: none;
+  outline: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 30px;
+  width: 70px;
+  border-radius: 8px;
+}
+
+.loader-container {
+  height: 80vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

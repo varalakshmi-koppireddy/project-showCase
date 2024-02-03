@@ -1,0 +1,22 @@
+.project-item {
+  height: 220px;
+  width: 200px;
+  background-color: #e2e8f0;
+  border-radius: 5px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+.project-img {
+  height: 180px;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.heading {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: 500;
+  padding-left: 15px;
+  margin-bottom: 20px;
+}
